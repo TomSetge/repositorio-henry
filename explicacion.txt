@@ -1,0 +1,14 @@
+Una variable es como una caja en la que podemos guardar cosas desde un simple punto hasta un parrafo o mucho más.
+Cada caja puede guardar un tipo de cosa, por ejemplo, en una caja se pueden guardar letras, palabras, números, signos, etc.
+En otra caja se pueden guardar números, en otra verdades y mentiras, en otra cosas sin definir y por último, en otra, el vacío.
+
+String es cualquier cosa que se pueda leer, desde un signo, letra, palabra hasta un número o combinación de todas estas cosas.
+
+Las funciones son instrucciones que le doy a algo para que para que cumpla alguna función. A cada instrucción la puedo usar en diferentes
+ocaciones según la necesidad, dándole diferentes ordenes hasta que le digo return y termina de funcionar dándome una respuesta.
+
+La declaración if es una condición que le propongo a algo y que según sea su respuesta va a hacer una cosa y no otra. Por ejemplo:
+si te portás bien te doy un regalo. Veo cómo te portás y si no te portás bien no te doy el regalo.
+
+El valor booleano es una respuesta de verdadero o falso, si yo te digo que soy más alto que vos, la respuesta booleana va a ser VERDADERO:
+si te digo que vos sos mayor de edad entonces la respuesta booleana va a ser FALSO.
